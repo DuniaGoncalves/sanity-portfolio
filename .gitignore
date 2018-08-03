@@ -1,0 +1,5 @@
+config
+node_modules
+plugins
+.next
+schemas
